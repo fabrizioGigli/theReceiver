@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/therecevier/static/css/main.e6c13ad2.css",
+    "main.js": "/therecevier/static/js/main.be781726.js",
+    "index.html": "/therecevier/index.html",
+    "main.e6c13ad2.css.map": "/therecevier/static/css/main.e6c13ad2.css.map",
+    "main.be781726.js.map": "/therecevier/static/js/main.be781726.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.be781726.js"
+  ]
+}
